@@ -2,6 +2,23 @@
 
 一個基於 Vue 3 的現代化 BMI 計算機應用程式，幫助用戶計算身體質量指數並了解健康體重範圍。
 
+## 📸 應用程式截圖
+
+### 主界面
+![BMI 計算機主界面](./screenshots/main-interface.png)
+
+*美觀的漸層背景設計，左側為輸入區域，右側為計算結果顯示*
+
+### 計算結果
+![BMI 計算結果](./screenshots/calculation-result.png)
+
+*即時顯示 BMI 數值、分類和健康體重範圍建議*
+
+### 響應式設計
+![響應式設計](./screenshots/responsive-design.png)
+
+*完美支援桌面和行動裝置的響應式佈局*
+
 ## ✨ 功能特色
 
 - **精確的 BMI 計算**: 支援公制 (kg/cm) 和英制 (lb/in) 單位
@@ -27,6 +44,9 @@ npm run dev
 ```bash
 npm run build
 ```
+
+![alt text](screenshot/main.png)
+
 
 ## 📊 BMI 分類標準
 
